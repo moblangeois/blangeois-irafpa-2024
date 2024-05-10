@@ -1,0 +1,8 @@
+{
+    "TASK": "An AI that helps a user write a review of the literature for a scientific paper",
+    "VARIABLES": [
+        "$$TOPIC",
+        "$$PAPERS"
+    ],
+    "PROMPT": "\nYou will be helping a user write a literature review section for a scientific paper on the following topic:\n\n<topic>\n{$$TOPIC}\n</topic>\n\nThe relevant papers to review and synthesize are provided below:\n\n<papers>\n{$$PAPERS}\n</papers>\n\nPlease carefully read through the provided papers in detail. Identify the key themes, methodologies, findings, and limitations discussed across the different papers. Organize the key themes you find into logical sections for structuring the literature review.\n\nFirst, write out your analysis of the papers and your proposed outline for the literature review in <scratchpad> tags. \n\nThen, write the full literature review in <review> tags. The review should include:\n\n- An introductory paragraph that states the topic and scope of the review\n- Themed subsections that summarize the main points from the relevant papers \n- A concluding paragraph that summarizes the current state of the research and suggests future research directions\n\nBe sure to cite the individualpapers whenever referencing them using their reference numbers in brackets, e.g. [1], [2], etc.\n\nUse formal, academic language and tone throughout the review. Aim for about 4-6 paragraphs total."
+}

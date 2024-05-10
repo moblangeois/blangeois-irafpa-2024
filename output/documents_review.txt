@@ -1,0 +1,400 @@
+title : Human aspects of plant diversity
+source : ECONOMIC BOTANY
+publish year : 2000
+Authors : [AuthorName(display_name='Jain, SK', wos_standard='Jain, SK', researcher_id='GRI-3065-2022')]
+Keywords : author_keywords=['diversity', 'traditional knowledge', 'human aspects', 'conservation', 'faith', 'taboo', 'comparative ethnobotany', 'India']
+doi : 10.1007/BF02866545
+Abstract : Abstract not found.
+
+title : Ethnobotanical Aspects
+source : MEDICINAL PLANT BIODIVERSITY OF LESSER HIMALAYAS-PAKISTAN
+publish year : 2012
+Authors : [AuthorName(display_name='Abbasi, Arshad Mehmood', wos_standard='Abbasi, AM', researcher_id='J-9314-2015'), AuthorName(display_name='Khan, Mir Ajab', wos_standard='Khan, MA', researcher_id='HTT-4685-2023'), AuthorName(display_name='Ahmad, Mushtaq', wos_standard='Ahmad, M', researcher_id='ABA-2956-2021'), AuthorName(display_name='Zafar, Muhammad', wos_standard='Zafar, M', researcher_id='AAZ-8841-2021')]
+Keywords : author_keywords=['Agriculture implements', 'Anthropogenic pressure', 'Beekeeping', 'Ethnobotany', 'Fodder', 'Food', 'Fuelwood', 'Marketing', 'Medicinal plants', 'Timber wood']
+doi : 10.1007/978-1-4614-1575-6_2
+Abstract : Abstract not found.
+
+title : Local knowledge of homegarden plants in Miao ethnic communities in Laershan region, Xiangxi area, China
+source : JOURNAL OF ETHNOBIOLOGY AND ETHNOMEDICINE
+publish year : 2024
+Authors : [AuthorName(display_name='Luo, Jin', wos_standard='Luo, J', researcher_id='IFW-0182-2023'), AuthorName(display_name='Li, Qiang', wos_standard='Li, Q', researcher_id='JGI-3300-2023'), AuthorName(display_name='He, Jianwu', wos_standard='He, JW', researcher_id='GBO-7289-2022'), AuthorName(display_name='Yan, Jin', wos_standard='Yan, J', researcher_id='JGF-7759-2023'), AuthorName(display_name='Zhang, Shujie', wos_standard='Zhang, SJ', researcher_id='JOU-7107-2023'), AuthorName(display_name='Chang, Xuepei', wos_standard='Chang, XP', researcher_id='KHA-9655-2024'), AuthorName(display_name='Wu, Tao', wos_standard='Wu, T', researcher_id='CJJ-7601-2022')]
+Keywords : author_keywords=['Homegarden plants', 'Local knowledge', 'Indigenous communities', 'Functional diversity', 'Laershan region']
+doi : 10.1186/s13002-024-00676-x
+Abstract : Abstract Background Homegardens are small-scale land use systems with significant implications for local livelihoods, biodiversity conservation, and sustainable development due to their diverse flora and fauna. Conducting homegarden surveys enables researchers to gain insights into the traditional ecological knowledge of indigenous communities, preserve homegarden biodiversity, and promote sustainable livelihoods. This study has two objectives: first, to collect, record, and organize data on homegarden plants and related traditional knowledge from three communities in the Laershan Plateau, and second, to analyze the species and functional diversity of homegarden plants in the region while exploring the factors that contribute to the heterogeneous distribution of these plants among the communities of three townships.  Methods This research employed field surveys in the Laershan Miao Autonomous Region in Xiangxi, China, from September 2021 to August 2023. Data were collected through observation and semi-structured interviews. The study utilized descriptive statistics and quantitative analysis, including the Relative Importance Value (RI), Use Value Index (UV), Jaccard Index (JI), and Comprehensive Index of Land Use Degree (La), to examine the diversity of local homegarden plants and related traditional knowledge, as well as community heterogeneity.  Results The study area exhibited rich biodiversity, with 152 plant species recorded belonging to 62 families and 124 genera. These findings highlight the importance of homegarden plants in maintaining ecological balance and enhancing system resilience against disturbances. Homegarden plants serve multiple functions such as food, ornamental, medicinal, and fodder purposes, with edible and trade plants having the most abundant knowledge. Furthermore, this research revealed that communities with similar forest resource compositions may have similar homegarden plant compositions, demonstrating the connection between cultural exchange among different communities and patterns of plant species distribution.  Conclusions The Laershan region boasts diverse homegarden plant species crucial for ecological balance and resilience. Their multifunctionality reflects human impact. Plant diversity varies with residents' lifestyles, needs, and cultural exchanges. The close connection between plants and local life is clear. Factors like resource distribution, cultural exchange, and lifestyle influence plant distribution. Further research is needed for conservation and sustainable development. Future research should focus on culturally valuable plant species and traditional knowledge applications. 
+
+title : Dynamics of traditional knowledge of medicinal plants in a rural community in the Brazilian semi-arid region
+source : REVISTA BRASILEIRA DE FARMACOGNOSIA-BRAZILIAN JOURNAL OF PHARMACOGNOSY
+publish year : 2011
+Authors : [AuthorName(display_name='Silva, Flavia dos Santos', wos_standard='Silva, FD', researcher_id='DRX-6452-2022'), AuthorName(display_name='Ramos, Marcelo A.', wos_standard='Ramos, MA', researcher_id='H-9501-2015'), AuthorName(display_name='Hanazaki, Natalia', wos_standard='Hanazaki, N', researcher_id='AAT-3830-2021'), AuthorName(display_name='de Albuquerque, Ulysses P.', wos_standard='de Albuquerque, UP', researcher_id='I-5037-2012')]
+Keywords : author_keywords=['Ethnobotany', 'intracultural variation', 'traditional botanical knowledge', 'Caatinga']
+doi : 10.1590/S0102-695X2011005000054
+Abstract : Abstract not found.
+
+title : Traditional forest-related knowledge and agrobiodiversity preservation: the case of the <i>chagras</i> in the Indigenous Reserve of Monochoa (Colombia)
+source : BIODIVERSITY AND CONSERVATION
+publish year : 2022
+Authors : [AuthorName(display_name='Marentes, Maria Alejandra Hernandez', wos_standard='Marentes, MAH', researcher_id='DFR-5180-2022'), AuthorName(display_name='Venturi, Martina', wos_standard='Venturi, M', researcher_id='FZC-9531-2022'), AuthorName(display_name='Scaramuzzi, Silvia', wos_standard='Scaramuzzi, S', researcher_id='DYS-6783-2022'), AuthorName(display_name='Focacci, Marco', wos_standard='Focacci, M', researcher_id='CQK-3365-2022'), AuthorName(display_name='Santoro, Antonio', wos_standard='Santoro, A', researcher_id='ABC-9526-2020')]
+Keywords : author_keywords=['Traditional knowledge', 'Sustainable rainforest management', 'Chagra', 'Agrobiodiversity', 'Agroforestry']
+doi : 10.1007/s10531-021-02263-y
+Abstract : AbstractChagras are complex agroforestry systems developed by indigenous populations of the Amazon region based on shifting agriculture, as part of a system that includes harvesting of wild fruits and plants, hunting and fishing. During the centuries, thanks to their traditional knowledge, indigenous populations have developed a deep relationship with the surrounding environment, as, living in remote places, they must be self-sufficient. The result is the chagra, a system whose cycle is based on seven basic steps to establish a successful and sustainable system, starting from place selection and ending with the abandonment of the plot after harvesting of the products. After the abandonment, the forest starts to grow again to allow the agroecosystem to recover and to take advantage of the residual vegetal material to avoid erosion. The paper takes into consideration the Indigenous Reserve of Monochoa in Colombia as an example of how traditional knowledge can support a rich biodiversity conservation. Moreover, differently from other parts of the world where there is a growing contrast between indigenous communities and protected areas, in the Indigenous Reserve of Monochoa local communities have been recognized as the owners of the land. Results highlighted the crucial role of the indigenous communities for biodiversity conservation. The preservation and adaptation of traditional knowledge and practices, a decentralized autonomous governance system demonstrates that local communities not only can be part of ecosystems with unique biodiversity, but that they can represent the main actors for an active conservation of biodiversity. Agroforestry systems based on traditional forest-related knowledge can therefore be an effective alternative to biodiversity and ecosystem services conservation based on strict nature protection where humans are perceived as a negative factor.
+
+title : How ethnobotany can aid biodiversity conservation: reflections on investigations in the semi-arid region of NE Brazil
+source : BIODIVERSITY AND CONSERVATION
+publish year : 2009
+Authors : [AuthorName(display_name='de Albuquerque, Ulysses Paulino', wos_standard='Albuquerque, UP', researcher_id='FVZ-4692-2022'), AuthorName(display_name='de Sousa Araujo, Thiago Antonio', wos_standard='Araujo, TAS', researcher_id='ELI-2981-2022'), AuthorName(display_name='Ramos, Marcelo Alves', wos_standard='Ramos, MA', researcher_id='H-9501-2015'), AuthorName(display_name='do Nascimento, Viviany Teixeira', wos_standard='do Nascimento, VT', researcher_id='CNZ-0600-2022'), AuthorName(display_name='Paiva de Lucena, Reinaldo Farias', wos_standard='de Lucena, RFP', researcher_id='I-5037-2012'), AuthorName(display_name='Monteiro, Julio Marcelino', wos_standard='Monteiro, JM', researcher_id='DGI-4554-2022'), AuthorName(display_name='Alencar, Nelson Leal', wos_standard='Alencar, NL', researcher_id='DRV-4931-2022'), AuthorName(display_name='Araujo, Elcida de Lima', wos_standard='Araujo, ED', researcher_id='J-3222-2012')]
+Keywords : author_keywords=['Conservation priorities', 'Local knowledge', 'Seasonal dry forests', 'Useful plants']
+doi : 10.1007/s10531-008-9463-8
+Abstract : Abstract not found.
+
+title : Plant Diversity in the Indigenous Home Gardens in the Eastern Himalayan Region of Mizoram, Northeast India
+source : ECONOMIC BOTANY
+publish year : 2016
+Authors : [AuthorName(display_name='Barbhuiya, A. R.', wos_standard='Barbhuiya, AR', researcher_id='DTS-1945-2022'), AuthorName(display_name='Sahoo, U. K.', wos_standard='Sahoo, UK', researcher_id='AAY-7076-2021'), AuthorName(display_name='Upadhyaya, K.', wos_standard='Upadhyaya, K', researcher_id='GHR-4791-2022')]
+Keywords : author_keywords=['Diversity', 'home garden', 'indigenous', 'Northeast India', 'plant', 'people', 'ethnobotany']
+doi : 10.1007/s12231-016-9349-8
+Abstract : Abstract not found.
+
+title : Traditional knowledge systems in India for biodiversity conservation
+source : INDIAN JOURNAL OF TRADITIONAL KNOWLEDGE
+publish year : 2016
+Authors : [AuthorName(display_name='Jasmine, Biba', wos_standard='Jasmine, B', researcher_id='FDB-0733-2022'), AuthorName(display_name='Singh, Yashaswi', wos_standard='Singh, Y', researcher_id='GCY-0319-2022'), AuthorName(display_name='Onial, Malvika', wos_standard='Onial, M', researcher_id='FNB-4741-2022'), AuthorName(display_name='Mathur, V. B.', wos_standard='Mathur, VB', researcher_id='DHM-4206-2022')]
+Keywords : author_keywords=['Biodiversity', 'Convention on Biological Diversity', 'Aichi Biodiversity Target', 'Traditional knowledge', 'Traditional practices']
+doi : None
+Abstract : DOI not provided.
+
+title : Integrating ethnobiological knowledge into biodiversity conservation in the Eastern Himalayas
+source : JOURNAL OF ETHNOBIOLOGY AND ETHNOMEDICINE
+publish year : 2017
+Authors : [AuthorName(display_name="O'Neill, Alexander R.", wos_standard="O'Neill, AR", researcher_id='GAK-8141-2022'), AuthorName(display_name='Badola, Hemant K.', wos_standard='Badola, HK', researcher_id='EMQ-1878-2022'), AuthorName(display_name='Dhyani, Pitamber P.', wos_standard='Dhyani, PP', researcher_id='CME-9973-2022'), AuthorName(display_name='Rana, Santosh K.', wos_standard='Rana, SK', researcher_id='O-2317-2016')]
+Keywords : author_keywords=['Biocultural diversity', 'Ethnobotany', 'Local ecological knowledge', 'Traditional knowledge', 'Sikkim', 'India']
+doi : 10.1186/s13002-017-0148-9
+Abstract : Abstract not found.
+
+title : Is the use-impact on native <i>caatinga</i> species in Brazil reduced by the high species richness of medicinal plants?
+source : JOURNAL OF ETHNOPHARMACOLOGY
+publish year : 2007
+Authors : [AuthorName(display_name='de Albuquerque, Ulysses Paulino', wos_standard='Albuquerque, UP', researcher_id='I-5037-2012'), AuthorName(display_name='de Oliveira, Rosilane Ferreira', wos_standard='de Oliveira, RF', researcher_id='ESB-9091-2022')]
+Keywords : author_keywords=['quantitative ethnobotany', 'use redundancy', 'ethnopharmacology', 'conservation', 'local knowledge']
+doi : 10.1016/j.jep.2007.05.025
+Abstract : Abstract not found.
+
+title : What drives the knowledge and local uses of timber resources in human-altered landscapes in the semiarid region of northeast Brazil?
+source : INTERNATIONAL JOURNAL OF SUSTAINABLE DEVELOPMENT AND WORLD ECOLOGY
+publish year : 2015
+Authors : [AuthorName(display_name='Ramos, Marcelo Alves', wos_standard='Ramos, MA', researcher_id='H-9501-2015'), AuthorName(display_name='Paiva de Lucena, Reinaldo Farias', wos_standard='de Lucena, RFP', researcher_id='I-5037-2012'), AuthorName(display_name='Albuquerque, Ulysses Paulino', wos_standard='Albuquerque, UP', researcher_id='FVZ-4692-2022')]
+Keywords : author_keywords=['timber resources', 'anthropogenic disturbances', 'human behavioral ecology', 'human ecology', 'ethnobotany', 'biodiversity conservation']
+doi : 10.1080/13504509.2015.1091796
+Abstract : Abstract not found.
+
+title : The unknown known - A review of local ecological knowledge in relation to forest biodiversity conservation
+source : LAND USE POLICY
+publish year : 2018
+Authors : [AuthorName(display_name='Joa, Bettina', wos_standard='Joa, B', researcher_id='DXX-1582-2022'), AuthorName(display_name='Winkel, Georg', wos_standard='Winkel, G', researcher_id='GVU-4080-2022'), AuthorName(display_name='Primmer, Eeva', wos_standard='Primmer, E', researcher_id='GGT-0088-2022')]
+Keywords : author_keywords=['Local ecological knowledge', 'Forest management', 'Forest land use', 'Biodiversity conservation', 'Local resource users', 'Literature review']
+doi : 10.1016/j.landusepol.2018.09.001
+Abstract : Abstract not found.
+
+title : Contribution of traditional knowledge to ecological restoration: Practices and applications
+source : ECOSCIENCE
+publish year : 2012
+Authors : [AuthorName(display_name='Uprety, Yadav', wos_standard='Uprety, Y', researcher_id='M-2511-2019'), AuthorName(display_name='Asselin, Hugo', wos_standard='Asselin, H', researcher_id='H-9980-2013'), AuthorName(display_name='Bergeron, Yves', wos_standard='Bergeron, Y', researcher_id='FYP-3836-2022'), AuthorName(display_name='Doyon, Frederik', wos_standard='Doyon, F', researcher_id='EUW-5477-2022'), AuthorName(display_name='Boucher, Jean-Francois', wos_standard='Boucher, JF', researcher_id='AAB-2358-2020')]
+Keywords : author_keywords=['ecological restoration', 'monitoring', 'partnership', 'reference ecosystems', 'species selection', 'traditional knowledge']
+doi : 10.2980/19-3-3530
+Abstract : Abstract not found.
+
+title : Local Knowledge on Wild Edible and Economically Important Pteridophytes of India: A Review
+source : HUMAN ECOLOGY
+publish year : 2023
+Authors : [AuthorName(display_name='Sureshkumar, Jeyalatchagan', wos_standard='Sureshkumar, J', researcher_id='GEV-9067-2022'), AuthorName(display_name='Jenipher, Christopher', wos_standard='Jenipher, C', researcher_id=None), AuthorName(display_name='Gurav, Shailendra S.', wos_standard='Gurav, SS', researcher_id='AAO-4240-2020'), AuthorName(display_name='Amiri-Ardekani, Ehsan', wos_standard='Amiri-Ardekani, E', researcher_id='AAI-1630-2021'), AuthorName(display_name='Kalaskar, Mohan G.', wos_standard='Kalaskar, MG', researcher_id='ILA-1229-2023'), AuthorName(display_name='Ayyanar, Muniappan', wos_standard='Ayyanar, M', researcher_id='AAZ-3196-2021')]
+Keywords : author_keywords=['Pteridophytes', 'Local ecological knowledge (LEK)', 'Wild edible plants', 'Medicinal uses', 'Indigenous and Rural communities', 'India']
+doi : 10.1007/s10745-023-00445-6
+Abstract : Abstract not found.
+
+title : Ethnobotanical Knowledge in Sete Cidades, Azores Archipelago: First Ethnomedicinal Report
+source : PLANTS-BASEL
+publish year : 2019
+Authors : [AuthorName(display_name='Silva, Pedro T. M.', wos_standard='Silva, PTM', researcher_id='DVN-5445-2022'), AuthorName(display_name='Silva, Marta A. F.', wos_standard='Silva, MAF', researcher_id='JLR-3164-2023'), AuthorName(display_name='Silva, Luis', wos_standard='Silva, L', researcher_id='AAH-1365-2020'), AuthorName(display_name='Seca, Ana M. L.', wos_standard='Seca, AML', researcher_id='E-5475-2013')]
+Keywords : author_keywords=['ethnobotany', 'ethnomedicine', 'medicinal plants', 'plant diversity', 'use value', 'Clinopodium menthifolium subsp', 'ascendens', 'Morella faya', 'Azores']
+doi : 10.3390/plants8080256
+Abstract : Knowledge about folk medicines is limited to elder community members of remote communities, like Sete Cidades in the Azores. The Azores, 1300 km west of Portugal, are nine volcanic islands, totalling 2330 km2 of land dispersed by 173,200 km2 in the North Atlantic Ocean. The present study aims to scientifically document the uses of plant species for medicinal purposes, in the Sete Cidades. Twenty-eight community members from 40 to 84 years of age, of whom half were 55 to 64 years old, were interviewed. Twenty-nine taxa were reported as being used for medicinal purposes, ten of which have not been previously reported for ethnomedicinal use in Portugal, with a first record of the use of Morella faya. Leaves were the most used plant part (55%), and decoction the most common preparation mode. The five reported taxa with both the highest use value (0.71–0.25) and relative frequency of citation (0.14–0.11) were Clinopodium menthifolium subsp. ascendens, Aloysia citriodora, Mentha x piperita, Citrus limon and Rosmarinus officinalis. The traditional uses of some of the reported plants are supported by scientific studies, confirming their ethnomedicinal value and the need to preserve local knowledge of folk medicine practices.
+
+title : Evidence for conservation and sustainable use in a fragment of the Atlantic forest in southeastern Brazil by a traditional human group
+source : SPRINGERPLUS
+publish year : 2012
+Authors : [AuthorName(display_name='Christo, Alexandre Gabriel', wos_standard='Christo, AG', researcher_id='EOZ-9329-2022'), AuthorName(display_name='Guedes-Bruni, Rejan R.', wos_standard='Guedes-Bruni, RR', researcher_id='AAS-5924-2020'), AuthorName(display_name='Pinto Sobrinho, Felipe de Araujo', wos_standard='Sobrinho, FDP', researcher_id='GBU-7561-2022'), AuthorName(display_name='da Silva, Ary Gomes', wos_standard='da Silva, AG', researcher_id='I-1465-2015'), AuthorName(display_name='Peixoto, Ariane Luna', wos_standard='Peixoto, AL', researcher_id='AAT-5102-2021')]
+Keywords : author_keywords=['Ethnobotany', 'Atlantic forest', 'Rural community', 'Use-value', 'Forest resource', 'Conservation']
+doi : 10.1186/2193-1801-1-21
+Abstract : Abstract The use of forest resources by a rural community adjacent to a Biological Reserve was examined using quantitative methods based on the consensus of six local specialists. Plants with trunk diameters at 1.3 m above soil level (DBH) ≥ 5 cm were sampled in 0.5 ha of forest and their use-value (UV) were calculated and associated with their structural descriptors. A total of 129 species were identified, and 69 of them having known uses. The species with largest UV were: Xylopia sericea, Lecythis lanceolata and Guarea macrophylla. The results demonstrated that neither the degree of recognition of taxa by the local specialists nor their use-versatility depended on their abundance in nature. The results corroborate the hypothesis that richness of a plant family is a predictive character of its cultural importance and the community recognizes the value of conserving the forest remnants.
+
+title : Ethnobotanical study of traditional medicinal plants used by the local people in Habru District, North Wollo Zone, Ethiopia
+source : JOURNAL OF ETHNOBIOLOGY AND ETHNOMEDICINE
+publish year : 2024
+Authors : [AuthorName(display_name='Alemu, Mulugeta', wos_standard='Alemu, M', researcher_id='JXY-9533-2024'), AuthorName(display_name='Asfaw, Zemede', wos_standard='Asfaw, Z', researcher_id='AAD-5164-2019'), AuthorName(display_name='Lulekal, Ermias', wos_standard='Lulekal, E', researcher_id='GAZ-2207-2022'), AuthorName(display_name='Warkineh, Bikila', wos_standard='Warkineh, B', researcher_id='GHV-6590-2022'), AuthorName(display_name='Debella, Asfaw', wos_standard='Debella, A', researcher_id='CLX-2411-2022'), AuthorName(display_name='Sisay, Bihonegn', wos_standard='Sisay, B', researcher_id='GCE-3708-2022'), AuthorName(display_name='Debebe, Eyob', wos_standard='Debebe, E', researcher_id='CLT-9550-2022')]
+Keywords : author_keywords=['Biodiversity conservation', 'Ethnobotany', 'Habru District', 'Traditional herbal knowledge', 'Traditional medicinal plants']
+doi : 10.1186/s13002-023-00644-x
+Abstract : Abstract Background Ethiopia is a country located in the Horn of Africa, which combines richness in plant resources and cultures of human plant use. The people of Habru District of North Wollo Zone (Amhara Region, Ethiopia) have a long history of use of plant resources for various purposes including in traditional herbal remedy preparation and use. However, the district has not been adequately studied for its ethnobotanical resources and the associated knowledge. This study focused on human medicinal plants and their traditional uses in Habru District. The objective of the study was to document and analyze the plant species used by the local communities to treat human ailments along with the associated traditional knowledge and practices.  Methodology The study was carried out in Habru District from June 2021 to December 2022. Ethnobotanical data were collected using semi-structured interviews, guided field walks, 13 focus group discussions (one at the district level and 12 at the kebele/subdistrict level) and market surveys. A total of 388 informants (250 males and 138 females) were selected from all 13 kebeles within Habru District using systematic random sampling, and 42 key informants were purposively selected. Descriptive statistics, preference ranking, direct matrix ranking, informant consensus factor and fidelity level were applied for data analysis.  Results The results provide insights into the medicinal plant diversity within Habru District, where 134 plant species in 110 genera and 54 families were documented, including 2 endemics, highlighting the district’s significance in biodiversity conservation and healthcare delivery. Disease prevalence analysis showed that gastrointestinal and parasitic ailments (ICF = 0.85), febrile diseases (ICF = 0.84), and culture-related conditions exhibit high informant consensus factors. Remedy preparation involves various plant parts, predominantly leaves (47.3%), followed by roots (22.1%), fruits (7.0%), and seeds (5.8%). Freshly harvested plant parts were frequently used (58.2%), while 24.7% involved both dried and fresh parts. Oral application (47.3%) and topical use (31.8%) are the major routes of remedy administration. The marketability of medicinal plants was evident, with 16.4% of the species reported as marketable, including Terminalia brownii Fresen. Myrtus communis L., Ruta chalepensis L., Olea europaea L. subsp. cuspidata (Wall. &amp; G.Don) Cif., Allium sativum L. and Capsicum annuum L. Multipurpose plants such as Solanum somalense Franchet. (91.3% FL), Ocimum lamiifolium Hochst. ex. Benth. (88.9% FL), and Verbascum sinaiticum Benth. (85.7% FL) exhibited notable healing potentials.  Conclusion The current study underscores the intricate relationship between the local community and medicinal plants, emphasizing the importance of biodiversity conservation and health care and acknowledging the dynamic interplay between cultural heritage and ecosystem health. The results contribute to the development of sustainable conservation strategies, healthcare practices and the preservation of traditional knowledge, and highlight the interdependence of human societies and their natural environments. Community-based conservation initiatives with active participation of local communities are desirable for the conservation and sustainable use of medicinal plant species and their habitats. Raising public awareness about the sustainable harvesting and utilization of marketed medicinal plants (e.g., Terminalia brownii Fresen.) that are under threat is also important to ensure their availability for future generations and contribution to socioeconomic development. 
+
+title : Indigenous lifestyles and biodiversity conservation issues in North Sikkim
+source : INDIAN JOURNAL OF TRADITIONAL KNOWLEDGE
+publish year : 2009
+Authors : [AuthorName(display_name='Lachungpa, Usha', wos_standard='Lachungpa, U', researcher_id='FFR-6199-2022')]
+Keywords : author_keywords=['Sikkim', 'Dokpas', 'Lachen', 'Lachung', 'Dzumsa', 'Bhutia', 'Cold desert', 'Trans Himalaya', 'Biodiversity conservation']
+doi : None
+Abstract : DOI not provided.
+
+title : A Systematic Review on Community Forest Management in Southeast Asia: Current Practices and Impacts on Biodiversity Conservation and Livelihood Quality of Local Communities
+source : HUMAN ECOLOGY REVIEW
+publish year : 2021
+Authors : [AuthorName(display_name='Diansyah, Wahyu', wos_standard='Diansyah, W', researcher_id='CNZ-9321-2022'), AuthorName(display_name='Abas, Azlan', wos_standard='Abas, A', researcher_id='T-1618-2017'), AuthorName(display_name='Sakawi, Zaini', wos_standard='Sakawi, Z', researcher_id='DQY-2919-2022')]
+Keywords : author_keywords=['biodiversity', 'community forest management', 'community well-being', 'forest ecosystem', 'local knowledge']
+doi : 10.22459/HER.27.01.2021.01
+Abstract : Abstract not found.
+
+title : Ethnobotanical approaches of traditional medicine studies in Southwest China: A literature review
+source : JOURNAL OF ETHNOPHARMACOLOGY
+publish year : 2016
+Authors : [AuthorName(display_name='Liu, Bo', wos_standard='Liu, B', researcher_id='JWS-0435-2024'), AuthorName(display_name='Guo, Zhi-yong', wos_standard='Guo, ZY', researcher_id='EYN-4316-2022'), AuthorName(display_name='Bussmann, Rainer', wos_standard='Bussmann, R', researcher_id='A-6105-2010'), AuthorName(display_name='Li, Fei-fei', wos_standard='Li, FF', researcher_id='JTT-8011-2023'), AuthorName(display_name='Li, Jian-qin', wos_standard='Li, JQ', researcher_id='KFA-3709-2024'), AuthorName(display_name='Hong, Li-ya', wos_standard='Hong, LY', researcher_id='JWG-0038-2024'), AuthorName(display_name='Long, Chun-lin', wos_standard='Long, CL', researcher_id='HXM-1200-2023')]
+Keywords : author_keywords=['Medicinal plants', 'Traditional knowledge', 'Literature review', 'Ethnobotany', 'Southwest China', 'Biodiversity conservation']
+doi : 10.1016/j.jep.2016.02.040
+Abstract : Abstract not found.
+
+title : Ethnobotany of the Balti community, Tormik valley, Karakorum range, Baltistan, Pakistan
+source : JOURNAL OF ETHNOBIOLOGY AND ETHNOMEDICINE
+publish year : 2016
+Authors : [AuthorName(display_name='Abbas, Zaheer', wos_standard='Abbas, Z', researcher_id='IAV-9749-2023'), AuthorName(display_name='Khan, Shujaul Mulk', wos_standard='Khan, SM', researcher_id='E-3064-2012'), AuthorName(display_name='Abbasi, Arshad Mehmood', wos_standard='Abbasi, AM', researcher_id='J-9314-2015'), AuthorName(display_name='Pieroni, Andrea', wos_standard='Pieroni, A', researcher_id='AAE-9578-2020'), AuthorName(display_name='Ullah, Zahid', wos_standard='Ullah, Z', researcher_id='AFJ-1089-2022'), AuthorName(display_name='Iqbal, Muhammad', wos_standard='Iqbal, M', researcher_id='JAK-9692-2023'), AuthorName(display_name='Ahmad, Zeeshan', wos_standard='Ahmad, Z', researcher_id='ABA-4623-2021')]
+Keywords : author_keywords=['Ethnobotany', 'Medicinal plants', 'Indigenous knowledge', 'Karakorum', 'Pakistan']
+doi : 10.1186/s13002-016-0114-y
+Abstract : Abstract not found.
+
+title : Traditional Ecological Knowledge Trends in the Transition to a Market Economy: Empirical Study in the Donana Natural Areas
+source : CONSERVATION BIOLOGY
+publish year : 2010
+Authors : [AuthorName(display_name='Gomez-Baggethun, Erik', wos_standard='Gómez-Baggethun, E', researcher_id='CRQ-9547-2022'), AuthorName(display_name='Mingorria, Sara', wos_standard='Mingorría, S', researcher_id='AAB-2301-2020'), AuthorName(display_name='Reyes-Garcia, Victoria', wos_standard='Reyes-García, V', researcher_id='C-4552-2008'), AuthorName(display_name='Calvet, Laura', wos_standard='Calvet, L', researcher_id='GBN-8645-2022'), AuthorName(display_name='Montes, Carlos', wos_standard='Montes, C', researcher_id='M-1449-2014')]
+Keywords : author_keywords=['intensification', 'market integration', 'natural protected areas', 'resource management', 'resilience', 'Spain', 'traditional ecological knowledge']
+doi : 10.1111/j.1523-1739.2009.01401.x
+Abstract : Abstract:  Researchers and conservation managers largely agree on the relevance of traditional ecological knowledge for natural resource management in indigenous communities, but its prevalence and role as societies modernize are contested. We analyzed the transmission of traditional knowledge among rural local people in communities linked to protected areas in Doñana, southwestern Spain. We studied changes in knowledge related to local practices in agriculture and livestock farming among 198 informants from three generations that cover the period in which the area transited from an economy strongly dependent on local ecosystem services to a market economy with intensified production systems. Our results suggest an abrupt loss of traditional agricultural knowledge related to rapid transformations and intensification of agricultural systems, but maintenance of knowledge of traditional livestock farming, an activity allowed in the protected areas that maintains strong links with local cultural identity. Our results demonstrate the potential of protected areas in protecting remaining bodies of traditional ecological knowledge in developed country settings. Nevertheless, we note that strict protection in cultural‐landscape‐dominated areas can disrupt transmission of traditional knowledge if local resource users and related practices are excluded from ecosystem management. 
+
+title : Wild Food Harvest, Food Security, and Biodiversity Conservation in Jamaica: A Case Study of the Millbank Farming Region
+source : FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+publish year : 2021
+Authors : [AuthorName(display_name='Campbell, Donovan', wos_standard='Campbell, D', researcher_id='ESI-1322-2022'), AuthorName(display_name='Moulton, Alex A.', wos_standard='Moulton, AA', researcher_id='AAD-4702-2020'), AuthorName(display_name='Barker, David', wos_standard='Barker, D', researcher_id='HIQ-0098-2022'), AuthorName(display_name='Malcolm, Tashana', wos_standard='Malcolm, T', researcher_id='DEM-1543-2022'), AuthorName(display_name='Scott, Lance', wos_standard='Scott, L', researcher_id='FXQ-2396-2022'), AuthorName(display_name='Spence, Adrian', wos_standard='Spence, A', researcher_id='DZM-5388-2022'), AuthorName(display_name='Tomlinson, Jhannel', wos_standard='Tomlinson, J', researcher_id='GDN-5526-2022'), AuthorName(display_name='Wallace, Tiffany', wos_standard='Wallace, T', researcher_id='IIM-9473-2023')]
+Keywords : author_keywords=['wild food', 'food security', 'traditional knowledge', 'protected area management', 'farming system', 'livelihood']
+doi : 10.3389/fsufs.2021.663863
+Abstract : Harvesting wild food is an important coping strategy to deal with food insecurity in farming households across the Caribbean. The practice is tightly connected to the region's unique agrarian history, food heritage, traditional cuisine, and local knowledge of wild or semidomesticated plants. In Jamaica, small-scale farmers are the chief stewards of agrobiodiversity, and their food security and well-being are often dependent on wild food harvest. Yet, there is a paucity of empirical research on the relationship between wild food use, food security, and biodiversity conservation. In this paper, we use the knowledge and lived experience of rural farmers in a remote community (Millbank) at the edge of the Blue and John Crow Mountains National Park (BJMNP) to explore the relationship between wild food harvest and food insecurity within the context of protected area management. Specifically, we seek to (1) characterize different patterns of wild food harvest; (2) examine the relationship between food insecurity and wild food harvest, and (3) explore the implications of forest conservation measures for wild food harvest. Detailed interviews were conducted with 43 farmers to capture data on food insecurity, wild food collection, livelihood satisfaction, household characteristics, farming activities, livelihood strategies, and forest resource interaction. The Food Insecurity Experience Scale (FIES) was used to characterize food insecurity, while participatory techniques were used to develop indicators to assess the well-being of farmers. The results show strong evidence of a relationship between wild food harvest and food insecurity (p &amp;lt; 0.001). Overall, the findings support the importance of wild foods to the well-being of rural households and provide empirical evidence for its inclusion in food security, poverty, and biodiversity conservation policies.
+
+title : Sustainability Issues in Conservation of Traditional Medicinal Herbs and Their Associated Knowledge: A Case Study of District Lahore, Punjab, Pakistan
+source : SUSTAINABILITY
+publish year : 2023
+Authors : [AuthorName(display_name='Shaheen, Shabnum', wos_standard='Shaheen, S', researcher_id='DUY-1918-2022'), AuthorName(display_name='Harun, Nidaa', wos_standard='Harun, N', researcher_id='EXR-5177-2022'), AuthorName(display_name='Ijaz, Raina', wos_standard='Ijaz, R', researcher_id='CVG-3456-2022'), AuthorName(display_name='Mukhtar, Naila', wos_standard='Mukhtar, N', researcher_id='HSF-4437-2023'), AuthorName(display_name='Ashfaq, Muhammad', wos_standard='Ashfaq, M', researcher_id='KFW-0124-2024'), AuthorName(display_name='Bibi, Fozia', wos_standard='Bibi, F', researcher_id='EOR-5252-2022'), AuthorName(display_name='Ali, Muhammad', wos_standard='Ali, M', researcher_id='CCO-2062-2022'), AuthorName(display_name='Abbas, Zaheer', wos_standard='Abbas, Z', researcher_id='KBJ-1706-2024'), AuthorName(display_name='Khalid, Zaryab', wos_standard='Khalid, Z', researcher_id='JFA-3613-2023')]
+Keywords : author_keywords=['impact of modernization and urbanization', 'traditional knowledge', 'rare herbs', 'abundant herbs', 'medicinal herbs']
+doi : 10.3390/su15097343
+Abstract : Due to modernization and urbanization, traditional medicinal herbs and their associated knoweldge are under peril of being lost. The current study not only aimed to document the trend of herbal medicinal plant uitlization in District Lahore, Punjab, Pakistan, but also raised alarming concerns about the conservation of these medicinal herbs and traditional knowledge linked to them. The data were collected from local people, herbalists, and gardeners by using standard ethnobotanical methods, i.e., questionnaires and interviews. Results reported that a lower number of informants possessed medicinal herb knowledge and reported only 50 medicinal herbs from the study area. This is probably due to the impact of speedy industrilaization and alterations in human life patterns in the study area. Not only the traditional knowledge is under threat but also the medicinal herbs themselves. Most of the reported medicinal herbs were rare (45.10%), while only few (9.80%) were ranked as abundant in the study area. The herbs with more medicinal importance are mostly rare. This is because of their over usage by the local people. Both conservation approaches (in situ and ex situ conservation and cultivation practices) and resource management (good agricultural practices and sustainable use solutions) should be adequately taken into account for the sustainable use of medicinal plant resources.
+
+title : Evidence that cultural food practices of <i>Adi</i> women in Arunachal Pradesh, India, improve social-ecological resilience: insights for Sustainable Development Goals
+source : ECOLOGICAL PROCESSES
+publish year : 2020
+Authors : [AuthorName(display_name='Singh, Ranjay K.', wos_standard='Singh, RK', researcher_id='IAE-1957-2023'), AuthorName(display_name='Kumar, Arvind', wos_standard='Kumar, A', researcher_id='AAM-1553-2021'), AuthorName(display_name='Singh, Anshuman', wos_standard='Singh, A', researcher_id='AAD-7676-2021'), AuthorName(display_name='Singhal, Poonam', wos_standard='Singhal, P', researcher_id='FVX-0750-2022')]
+Keywords : author_keywords=['Adi women', 'Arunachal Pradesh', 'Conservation', 'Diverse ecosystems', 'SDGs', 'Traditional food species']
+doi : 10.1186/s13717-020-00232-x
+Abstract : Abstract Introduction Sustainable use of biocultural diversity can help achieve Sustainable Development Goals (SDGs) in many ways. The tribal communities of bio-culturally rich Northeastern India rely heavily on local food resources and knowledge for livelihood security. In this study with Adi women of East Siang district, Arunachal Pradesh, India, we aimed to understand (i) access and use patterns for biocultural plants and animal species from diverse ecosystems and (ii) species diversity and conservation strategies deployed by Adis. We employed a novel participatory approach called “recipe contest” to mobilize Adi women from 15 randomly selected remote and transitional villages. Data collected through interviews, focus group discussions and transect walks from 75 women, were analyzed using qualitative and quantitative methods.  Results We found that traditional local food was linked intricately with women’s knowledge, access patterns, and socio-cultural institutions. From an end-user perspective, remote Adi villages had more widespread use of plant species (14 as food; 34 as food-cum-ethnomedicine and 13 as income-generating species) and animal (17) as food in remote than in transitional villages. Further, there were significant differences (p &lt; 0.000; 0244 and 0.000, respectively) across the social groups for use of plant- and animal-derived food and ethnomedicine. Among different land use systems (i.e., Jhum lands, home gardens, and morang forests), the highest diversity for food plant was found in home gardens while that for food-cum-ethnomedicinal plants and animal species was observed in morang forests. Adi women apply traditional agronomic, cultural, and harvest strategies, based on local knowledge and institutions and varying with social systems, to conserve their key local resources. Significant correlations (r = 0.63 to 0.92) were seen between conservation and use of food and animal species. Traditional knowledge on these aspects was linked intricately to the socio-cultural milieu and is transmitted inter-generationally through various social institutions.  Conclusions Cultural food practices, crucial to social-ecological resilience and livelihood security of Adi and similar indigenous communities confronting global environmental challenges, need to be mainstreamed with relevant policies for achieving some targets of SDGs. 
+
+title : Conservation, Traditional Knowledge, and Indigenous Peoples
+source : AMERICAN BEHAVIORAL SCIENTIST
+publish year : 2014
+Authors : [AuthorName(display_name='Popova, Ulia', wos_standard='Popova, U', researcher_id='FRM-8368-2022')]
+Keywords : author_keywords=['indigenous peoples', 'traditional knowledge', 'conservation']
+doi : 10.1177/0002764213495043
+Abstract :  In this study I examined examples of implementation of conservation policies initiated by the adoption of the Convention on Biological Diversity (1992). I focused on the 101 conservation initiatives conducted during the period of 2002-2012 on the territories of groups classified by the international law as indigenous peoples. I assessed a degree to which conservation benefited indigenous communities as means to combat poverty and ecological degradation. I focused on the connections between the provisions of the CBD Article 8(j) that specified the importance of protecting indigenous and local communities’ traditional knowledge and practices (TK) to conservation, and the actual realities of conservation initiatives in which indigenous expertise was used. I learned that despite the wide use of elements composing TK in the projects examined, only certain communities benefited from the conservation initiatives, with a predominant part of beneficiaries located in the states that insured greater degree of legal and social protection to indigenous individuals as citizens of those states. For the most part conservation was imposed upon indigenous groups; some communities suffered displacement and poverty loosing the lands and resources to the conservation authorities. At the same time in other cases conservation projects offered an opportunity for indigenous individuals to advance their perspectives on managing traditional lands and natural environments and thus, to some degree, advanced underlining these groups’ interests. I concluded that collaborative work between indigenous groups and the outside agencies remains the key means toward improving the indigenous economies and relations with external actors while also serving as a means to care for the environment across geo-political boundaries. 
+
+title : Contributions of the Corporate Sector to Sustainable Development
+source : BIODIVERSITY FOR SUSTAINABLE DEVELOPMENT
+publish year : 2017
+Authors : [AuthorName(display_name='Arkalgud, Ramakrishna', wos_standard='Arkalgud, R', researcher_id='EMB-6794-2022')]
+Keywords : author_keywords=['Corporate social responsibility', 'Corporate sustainability', 'Bioprospecting', 'Floriculture', 'Traditional knowledge digital library']
+doi : 10.1007/978-3-319-42162-9_3
+Abstract : Abstract not found.
+
+title : Edible and Medicinal Plants Sold at Selected Local Markets in Batu Pahat, Johor, Malaysia
+source : INVENTING PROSPEROUS FUTURE THROUGH BIOLOGICAL RESEARCH AND TROPICAL BIODIVERSITY MANAGEMENT
+publish year : 2018
+Authors : [AuthorName(display_name='Sulaini, Asma Adiba', wos_standard='Sulaini, AA', researcher_id='DZH-2419-2022'), AuthorName(display_name='Sabran, Siti Fatimah', wos_standard='Sabran, SF', researcher_id='AAM-1513-2021')]
+Keywords : author_keywords=['documentation', 'ethnobotany', 'Johor', 'local markets', 'plant diversity']
+doi : 10.1063/1.5050102
+Abstract : Abstract not found.
+
+title : Diversity of use and local knowledge of wild edible plant resources in Nepal
+source : JOURNAL OF ETHNOBIOLOGY AND ETHNOMEDICINE
+publish year : 2012
+Authors : [AuthorName(display_name='Uprety, Yadav', wos_standard='Uprety, Y', researcher_id='M-2511-2019'), AuthorName(display_name='Poudel, Ram C.', wos_standard='Poudel, RC', researcher_id='JXB-5118-2024'), AuthorName(display_name='Shrestha, Krishna K.', wos_standard='Shrestha, KK', researcher_id='FYQ-0797-2022'), AuthorName(display_name='Rajbhandary, Sangeeta', wos_standard='Rajbhandary, S', researcher_id='FXA-3699-2022'), AuthorName(display_name='Tiwari, Narendra N.', wos_standard='Tiwari, NN', researcher_id='EBA-2758-2022'), AuthorName(display_name='Shrestha, Uttam B.', wos_standard='Shrestha, UB', researcher_id='DWM-0778-2022'), AuthorName(display_name='Asselin, Hugo', wos_standard='Asselin, H', researcher_id='H-9980-2013')]
+Keywords : author_keywords=['Traditional knowledge', 'Wild edible plants', 'Biodiversity', 'Food security', 'Genetic resources']
+doi : 10.1186/1746-4269-8-16
+Abstract : Abstract Background Wild edible plants (WEP) provide staple and supplement foods, as well as cash income to local communities, thus favouring food security. However, WEP are largely ignored in land use planning and implementation, economic development, and biodiversity conservation. Moreover, WEP-related traditional knowledge is rapidly eroding. Therefore, we designed this study to fulfill a part of the knowledge gap by providing data on diversity, traditional knowledge, economic potential, and conservation value of WEP from Nepal.  Methods The information was collected through focus group discussions and key informant interviews. Percentage of general utility of the plants among the study communities was evaluated using the Chi-square (χ<jats:sup>2</jats:sup>) test of homogeneity. High priority species were identified after consultation with the local stakeholders followed by scoring based on defined criteria. Pairwise ranking was used to assess ethnoecological knowledge to identify the threats to WEP.  Results We documented 81 species belonging to Angiosperms (74), Pteridophytes (5), and Fungi (2). Most of the species were used as fruits (44 species) followed by vegetables (36). Almost half of the species (47%) were also used for purposes other than food. From the species with market value (37% of the total), 10 were identified as high priority species. Pairwise ranking revealed that WEP are threatened mostly by habitat destruction, land-use change and over-harvesting. Some of these plants are crop wild relatives and could thus be used for crop improvement. Interestingly, our study also revealed that young people who spend most of the time in the forest as herdsmen are particularly knowledgeable of wild fruit plants.  Conclusion We provide empirical evidence from a relatively large area of Nepal about diversity and status of WEP, as well as methodological insights about the proper knowledge holders to consult. Regarding the unique and important knowledge they have on WEP, young people should be included when recruiting participants to ethnobotanical studies or to any type of consultation about WEP. The habit of using wild edible plants is still alive and is a traditional culinary practice that demonstrates rich traditional knowledge of local people. WEP were found to be important for livelihood as well as showing great potential for crop improvement. Priority species should be promoted for income generation activities through sustainable collection and trade. Communities should engage in minimizing the threats to these valuable resources. 
+
+title : SUSTAINABLE USE AND CONSERVATION OF MEDICINAL PLANTS IN CANTARRANAS, HUEHETLA, HIDALGO, MEXICO, AS A WAY FOR IMPROVING THE QUALITY OF LIVE IN THE COMMUNITY
+source : BOTANICAL SCIENCES
+publish year : 2014
+Authors : [AuthorName(display_name='Nathaly Lopez-Gutierrez, Berenice', wos_standard='López-Gutiérrez, BN', researcher_id='DDG-3498-2022'), AuthorName(display_name='Estela Perez-Escandon, Blanca', wos_standard='Pérez-Escandón, BE', researcher_id='FTG-6592-2022'), AuthorName(display_name='Villavicencio Nieto, Miguel Angel', wos_standard='Nieto, MAV', researcher_id='IFH-1053-2023')]
+Keywords : author_keywords=['cultural value', 'ethnobotany', 'herbal remedies', 'linking', 'Otomi-Tepehua']
+doi : 10.17129/botsci.106
+Abstract : Este estudio se realizó en Cantarranas, Huehuetla, Hidalgo, México, donde el tipo de vegetación dominante es bosque tropical perennifolio. Cantarranas presenta alto grado de marginación, limitado acceso a servicios de salud y pocas oportunidades para incrementar sus ingresos económicos. El objetivo fue planear el aprovechamiento sostenible y conservación de plantas medicinales usadas en la comunidad como una alternativa para resolver problemas ambientales y sociales. Las especies fueron evaluadas con métodos etnobotánicos y ecológicos. Se usaron entrevistas estructuradas para documentar el valor cultural de las especies, nivel de fidelidad, prácticas e intensidad de manejo, usos y padecimientos tratados. La distribución y abundancia se obtuvo con el método de transectos lineales. Las 19 especies evaluadas son usadas para atender 51 padecimientos, los desórdenes gastrointestinales se tratan mayormente mediante las plantas medicinales. Las especies con mayor índice de valor cultural fueron Equisetum myriochaetum (0.69), Psidium guajava (0.37), Jaegeria macrocephala (0.26592) y Costus scaber (0.25496). Hamelia patens registró el mayor nivel de ? delidad (96%), seguida de E. myriochaetum (88%). Los valores de intensidad de manejo fueron más altos en C. scaber (9.2) y P. guajava (9). La densidad poblacional osciló entre 1 y 387 individuos por hectárea, según la especie y forma de vida. Mediante la vinculación sociedad y Universidad, se desarrolló e impartió un diplomado para los miembros de la comunidad, relacionado con el uso y aprovechamiento sostenible de plantas medicinales. Se constituyó una Sociedad Cooperativa con mujeres de la comunidad, ellas trabajan en la conservación y aprovechamiento sostenible de plantas medicinales.
+
+title : Building ecological networks with local ecological knowledge in hyper-diverse and logistically challenging ecosystems
+source : METHODS IN ECOLOGY AND EVOLUTION
+publish year : 2021
+Authors : [AuthorName(display_name='Ong, Lisa', wos_standard='Ong, L', researcher_id='DXG-1612-2022'), AuthorName(display_name='Campos-Arceiz, Ahimsa', wos_standard='Campos-Arceiz, A', researcher_id='HCH-6042-2022'), AuthorName(display_name='Loke, Vivienne P. W.', wos_standard='Loke, VPW', researcher_id='DFK-2647-2022'), AuthorName(display_name='bin Pura, Param', wos_standard='bin Pura, P', researcher_id='EQA-7605-2022'), AuthorName(display_name='bin Tunil, Charang Muhamad Tauhid', wos_standard='bin Tunil, CMT', researcher_id='CEQ-2012-2022'), AuthorName(display_name='Din, Husin Sudin A. L.', wos_standard='Din, HSAL', researcher_id='ESU-5806-2022'), AuthorName(display_name='bin Angah, Rizuan', wos_standard='bin Angah, R', researcher_id='CGL-7379-2022'), AuthorName(display_name='Amirrudin, Nurul Ain Binti', wos_standard='Amirrudin, NAB', researcher_id='CBN-5543-2022'), AuthorName(display_name='Tan, Wei Harn', wos_standard='Tan, WH', researcher_id='FYX-5995-2022'), AuthorName(display_name='Lily, Ong', wos_standard='Lily, O', researcher_id='DFJ-2112-2022'), AuthorName(display_name='Solana-Mena, Alicia', wos_standard='Solana-Mena, A', researcher_id='DRR-2912-2022'), AuthorName(display_name='McConkey, Kim R.', wos_standard='McConkey, KR', researcher_id='AAP-5609-2021')]
+Keywords : author_keywords=['frugivory', 'hyper-diverse ecosystem', 'indigenous communities', 'local ecological knowledge', 'mutualistic interactions', 'seed dispersal network', 'traditional knowledge', 'tropical rainforest']
+doi : 10.1111/2041-210X.13685
+Abstract : Abstract <jats:list> <jats:list-item>Collecting interaction data to build frugivory or seed dispersal networks is logistically challenging in ecosystems that have very high plant and animal diversity and/or where fieldwork is difficult or dangerous. Consequently, the majority of available networks are from ecosystems with low species diversity or they represent a subset of the community.</jats:list-item> <jats:list-item>Here, we propose an approach applying local ecological knowledge (LEK) of indigenous communities to build quantitative interaction databases and networks that would otherwise be difficult to achieve with direct observations. Indigenous communities live in many hyper‐diverse ecosystems and the people within these communities often have detailed knowledge of ecological processes.</jats:list-item> <jats:list-item>Working in a Sundaland biodiversity hotspot—Royal Belum State Park, Peninsular Malaysia—we used visually oriented interviews with indigenous people (Orang Asli, in the Jahai and Temiar ethnic subgroups), field data and published records to collate interactions, and their estimated frequency of occurrence, of animal fruit consumption and seed dispersal.</jats:list-item> <jats:list-item>We documented 2,063 fruit consumption and 1,360 seed dispersal interactions among 164 plant species and 34 animal taxa, the latter representing groups of closely related species or individual species. The majority of the interactions (97%) were identified by the LEK interviews, with the additional methods (field data and published records) used to support and marginally expand the interview data. The metrics for the networks we built reflect those of networks structured by biological mechanisms, supporting the validity of our novel approach.</jats:list-item> <jats:list-item>LEK is highly relevant for building detailed databases for ecological interactions in hyper‐diverse and/or challenging ecosystems. Such ecosystems are among the most vulnerable on earth, harbouring ecological interactions that are often poorly documented at a community level. We show how LEK can broaden our knowledge of such sensitive ecosystems, but our approach is useful for any ecosystem in which people hold rich LEK.</jats:list-item> </jats:list> 
+
+title : Diversity and use of Cerrado plants in a Geraizeiros community in northern Minas Gerais, Brazil
+source : ACTA BOTANICA BRASILICA
+publish year : 2012
+Authors : [AuthorName(display_name='Portela Lima, Isabela Lustz', wos_standard='Lima, ILP', researcher_id='JVK-4523-2024'), AuthorName(display_name='Scariot, Aldicir', wos_standard='Scariot, A', researcher_id='N-3447-2019'), AuthorName(display_name='de Medeiros, Marcelo Brilhante', wos_standard='de Medeiros, MB', researcher_id='ISU-8814-2023'), AuthorName(display_name='Sevilha, Anderson Cassio', wos_standard='Sevilha, AC', researcher_id='DYU-0711-2022')]
+Keywords : author_keywords=['Ecological appearance', 'extractive reserve', 'quantitative ethnobotany', 'use value']
+doi : 10.1590/S0102-33062012000300017
+Abstract : A conservação e o uso sustentável da biodiversidade requerem conhecimentos da vegetação nativa e de como as populações locais utilizam os recursos naturais disponíveis. Os objetivos deste estudo foram testar a hipótese da aparência ecológica e levantar a diversidade de uso e a distribuição do conhecimento sobre plantas úteis em uma comunidade tradicional de Geraizeiros no município de Rio Pardo de Minas, Norte de Minas Gerais, Brasil. Caryocar brasiliense Cambess., Hancornia speciosa Gomes, Sclerolobium paniculatum Vogel e Pterodon emarginatus Vogel apresentaram os maiores valores de uso (0,7 a 1,8) e maiores valores de importância fitossociológica (1,31 a 36,98). A diversidade de uso (H' = 1,13 a 1,26) e a diversidade de plantas arbóreas no ambiente (H' = 3,11) foram baixas. Os homens demonstraram conhecer mais as espécies úteis que as mulheres e não foram encontradas diferenças significativas relacionadas à idade dos entrevistados. Foi constatada relação positiva entre utilidade e disponibilidade da planta no ambiente, confirmando a hipótese da aparência ecológica. Os dados obtidos poderão contribuir para conservação do cerrado remanescente na região, do modo de vida da população local e para o estabelecimento de estratégias de manejo baseadas nas demandas locais e nas espécies prioritárias.
+
+title : Gendered knowledge and changing trends in utilization of wild edible greens in Western Ghats, India
+source : INDIAN JOURNAL OF TRADITIONAL KNOWLEDGE
+publish year : 2007
+Authors : [AuthorName(display_name='Narayanan, M. K. Ratheesh', wos_standard='Narayanan, MKR', researcher_id='DJC-7183-2022'), AuthorName(display_name='Kumar, N. Anil', wos_standard='Kumar, NA', researcher_id='FJJ-2204-2022')]
+Keywords : author_keywords=['wild edible greens', 'traditional knowledge', 'ethnicity', 'nutritional security', 'biodiversity conservation', 'Western Ghats', 'Paniyar tribe', 'Kattunaikkar tribe', 'Kurumar tribe']
+doi : None
+Abstract : DOI not provided.
+
+title : Biodiversity, State and Religion in the Brazilian Amazon
+source : HORIZONTE-REVISTA DE ESTUDOS DE TEOLOGIA E CIENCIAS DA RELIGIAO
+publish year : 2010
+Authors : [AuthorName(display_name='Siqueira, Deis', wos_standard='Siqueira, DE', researcher_id='DTJ-9025-2022')]
+Keywords : author_keywords=['biodiversity', 'religiosity', 'Amazon', 'encantaria', 'public policies']
+doi : 10.5752/P.2175-5841.2010v8n17p56
+Abstract : Abstract not found.
+
+title : Local Knowledge and Management of the Royal Fern (<i>Osmunda regalis</i> L.) in Northern Spain: Implications for Biodiversity Conservation
+source : AMERICAN FERN JOURNAL
+publish year : 2009
+Authors : [AuthorName(display_name='Molina, Maria', wos_standard='Molina, M', researcher_id='HSE-7883-2023'), AuthorName(display_name='Reyes-Garcia, Victoria', wos_standard='Reyes-García, V', researcher_id='C-4552-2008'), AuthorName(display_name='Pardo-de-Santayana, Manuel', wos_standard='Pardo-de-Santayana, M', researcher_id='A-1123-2012')]
+Keywords : author_keywords=['Cantabria (Spain)', 'ethnobotany', 'medicinal plants', 'resource management', 'conservation']
+doi : 10.1640/0002-8444-99.1.45
+Abstract : Abstract not found.
+
+title : Exploring farmers' agrobiodiversity management practices and knowledge in clove agroforests of Madagascar
+source : PEOPLE AND NATURE
+publish year : 2021
+Authors : [AuthorName(display_name='Mariel, Juliette', wos_standard='Mariel, J', researcher_id='FNM-8861-2022'), AuthorName(display_name='Carriere, Stephanie M.', wos_standard='Carrière, SM', researcher_id='A-7271-2012'), AuthorName(display_name='Penot, Eric', wos_standard='Penot, E', researcher_id='DKR-7431-2022'), AuthorName(display_name='Danthu, Pascal', wos_standard='Danthu, P', researcher_id='CND-6825-2022'), AuthorName(display_name='Rafidison, Verohanitra', wos_standard='Rafidison, V', researcher_id='IGM-8965-2023'), AuthorName(display_name='Labeyrie, Vanesse', wos_standard='Labeyrie, V', researcher_id='AAF-7767-2021')]
+Keywords : author_keywords=['adaptation', 'agroforestry', 'ecological interactions', 'emic approach', 'ethnobotany', "farmers' strategies", 'participatory mapping', 'smallholder agriculture']
+doi : 10.1002/pan3.10238
+Abstract : Abstract <jats:list> <jats:list-item>Interactions between farmers and agrobiodiversity are key drivers of agroecosystems sustainability and of the resilience of such systems to perturbations, but research into the human/nature interactions have overlooked some important aspects of agrobiodiversity management. In particular, farmers' ecological knowledge of the spatial organisation of plant diversity remains an open question, although knowledge and practices have major implications for the efficient and sustainable use of natural resources.</jats:list-item> <jats:list-item>Our study addresses this question by analysing how farmers spatially organise plant species in agroforests based on their knowledge of species interactions and interactions with the environment. The Analanjirofo region on the north‐east coast of Madagascar provides an interesting context to explore this issue in clove‐based agroforests, as these systems were developed by farmers as a sustainable alternative to the traditional system of shifting rice cultivation.</jats:list-item> <jats:list-item>Using an emic approach, that is based on the farmers' perspective, and participatory mapping, we studied plant diversity and its spatial organisation in 17 clove‐based agroforests and in 28 management sub‐units defined by farmers in a village of Vavatenina district. The plant functions and farmers' knowledge of plant interactions with clove tree were recorded in semi‐structured interviews, and the interactions were represented in a cognitive map.</jats:list-item> <jats:list-item>Farmers manage more than 50 plant species associated with diverse functions. Analysis of participatory maps identified four main types of species association as a function of the age of the clove trees and the associated plant diversity, and different spatial organisation patterns as a function of the topography and the surrounding species. Analysis of farmers' knowledge provided valuable insights into spatial organisation practices, how farmers perceive the adaptation of plant species to biophysical heterogeneity of the environment and whether they can be associated with other species.</jats:list-item> <jats:list-item>Our findings and methods pave the way for further interdisciplinary research on farmers/nature interactions to support the development of agrobiodiversity‐based systems taking into account farmer and scientific knowledge and practices, especially in the tropics where the expansion of cash crops in input‐intensive and mono‐cropping systems has driven major disruptions to smallholder agriculture.</jats:list-item> </jats:list> 
+
+title : Putting indigenous conservation policy into practice delivers biodiversity and cultural benefits
+source : BIODIVERSITY AND CONSERVATION
+publish year : 2016
+Authors : [AuthorName(display_name='Ens, Emilie', wos_standard='Ens, E', researcher_id='AIA-8787-2022'), AuthorName(display_name='Scott, Mitchell. L.', wos_standard='Scott, ML', researcher_id='DQA-1263-2022'), AuthorName(display_name='Rangers, Yugul Mangi', wos_standard='Rangers, YM', researcher_id='FSN-0058-2022'), AuthorName(display_name='Moritz, Craig', wos_standard='Moritz, C', researcher_id='DJM-8103-2022'), AuthorName(display_name='Pirzl, Rebecca', wos_standard='Pirzl, R', researcher_id='G-6151-2019')]
+Keywords : author_keywords=['Indigenous biocultural knowledge (IBK)', 'Natural and cultural resource management (NCRM)', 'Traditional languages', 'Cross-cultural environmental management', 'Traditional ecological knowledge']
+doi : 10.1007/s10531-016-1207-6
+Abstract : Abstract not found.
+
+title : Ethnomedicinal uses of the local flora in Chenab riverine area, Punjab province Pakistan
+source : JOURNAL OF ETHNOBIOLOGY AND ETHNOMEDICINE
+publish year : 2019
+Authors : [AuthorName(display_name='Umair, Muhammad', wos_standard='Umair, M', researcher_id='HMU-8795-2023'), AuthorName(display_name='Altaf, Muhammad', wos_standard='Altaf, M', researcher_id='T-8161-2019'), AuthorName(display_name='Bussmann, Rainer W.', wos_standard='Bussmann, RW', researcher_id='A-6105-2010'), AuthorName(display_name='Abbasi, Arshad Mehmood', wos_standard='Abbasi, AM', researcher_id='J-9314-2015')]
+Keywords : author_keywords=['Ethnobotany', 'Medicinal plants', 'Quantitative analysis', 'Chenab riverine', 'Pakistan']
+doi : 10.1186/s13002-019-0285-4
+Abstract : Abstract not found.
+
+title : BIODIVERSITY AND THE PROTECTED AREAS SYSTEM IN ALBANIA
+source : EKONOMIKA POLJOPRIVREDA-ECONOMICS OF AGRICULTURE
+publish year : 2009
+Authors : [AuthorName(display_name='Metaj, M.', wos_standard='Metaj, M', researcher_id='DFN-9758-2022')]
+Keywords : author_keywords=[]
+doi : None
+Abstract : DOI not provided.
+
+title : COVID-19 Tests the Limits of Biodiversity Laws in a Health Crisis: Rethinking "Country of Origin" for Virus Access and Benefit-sharing
+source : JOURNAL OF LAW AND MEDICINE
+publish year : 2021
+Authors : [AuthorName(display_name='Humphries, Fran', wos_standard='Humphries, F', researcher_id='AAJ-1605-2020'), AuthorName(display_name='Rourke, Michelle', wos_standard='Rourke, M', researcher_id='GDW-4272-2022'), AuthorName(display_name='Berry, Todd', wos_standard='Berry, T', researcher_id='CEW-1263-2022'), AuthorName(display_name='Englezos, Elizabeth', wos_standard='Englezos, E', researcher_id='GFM-2729-2022'), AuthorName(display_name='Lawson, Charles', wos_standard='Lawson, C', researcher_id='DZM-5671-2022')]
+Keywords : author_keywords=['COVID-19', 'Convention on Biological Diversity', 'access and benefit sharing', 'country of origin', 'genetic resources']
+doi : None
+Abstract : DOI not provided.
+
+title : Biodiversity and the Protected Areas System in Albania
+source : INTERNATIONAL JOURNAL FOR QUALITY RESEARCH
+publish year : 2009
+Authors : [AuthorName(display_name='Metaj, Mehmet', wos_standard='Metaj, M', researcher_id='DFN-9758-2022')]
+Keywords : author_keywords=['biodiversity', 'protected areas']
+doi : None
+Abstract : DOI not provided.
+
+title : THE "ROYALTIES" OF TECHNOLOGICAL APPLICATIONS OF NATIONAL GENETIC PATRIMONY AND ASSOCIATED TRADITIONAL KNOWLEDGE: THE BRAZILIAN STATE IN QUESTION
+source : REVISTA GEINTEC-GESTAO INOVACAO E TECNOLOGIAS
+publish year : 2017
+Authors : [AuthorName(display_name='Gomes Souza, Andre Luiz', wos_standard='Souza, ALG', researcher_id='JZD-6521-2024'), AuthorName(display_name='Santos Junior, Avelar Araujo', wos_standard='Santos, AA', researcher_id='DPO-7423-2022'), AuthorName(display_name='da Silva, Gabriel Francisco', wos_standard='da Silva, GF', researcher_id='CLT-7644-2022')]
+Keywords : author_keywords=['Convention on Biological Diversity', 'New Biodiversity Framework', 'Associated Traditional Knowledge', 'Benefit-sharing', 'CGEN']
+doi : 10.7198/geintec.v7.i4.1251
+Abstract : Abstract not found.
+
+title : Cognitive Polyphasia in the Reception of Legal Innovations for Biodiversity Conservation
+source : PAPERS ON SOCIAL REPRESENTATIONS
+publish year : 2012
+Authors : [AuthorName(display_name='Mouro, Carla', wos_standard='Mouro, C', researcher_id='H-3743-2019'), AuthorName(display_name='Castro, Paula', wos_standard='Castro, P', researcher_id='KEE-9494-2024')]
+Keywords : author_keywords=[]
+doi : None
+Abstract : DOI not provided.
+
+title : Cross-Cultural Ethnobotanical Assembly as a New Tool for Understanding Medicinal and Culinary Values-The Genus <i>Lycium</i> as A Case Study
+source : FRONTIERS IN PHARMACOLOGY
+publish year : 2021
+Authors : [AuthorName(display_name='Yao, Ruyu', wos_standard='Yao, RY', researcher_id='AAX-8432-2020'), AuthorName(display_name='Heinrich, Michael', wos_standard='Heinrich, M', researcher_id='CVA-0207-2022'), AuthorName(display_name='Wei, Jianhe', wos_standard='Wei, JH', researcher_id='KAX-6093-2024'), AuthorName(display_name='Xiao, Peigen', wos_standard='Xiao, PG', researcher_id='JGA-9621-2023')]
+Keywords : author_keywords=['ethnobotany', 'ethnopharmacology', 'Lycium', 'medicine and food homology', 'traditional use']
+doi : 10.3389/fphar.2021.708518
+Abstract : Ethnobotanical knowledge is indispensable for the conservation of global biological integrity, and could provide irreplaceable clues for bioprospecting aiming at new food crops and medicines. This biocultural diversity requires a comprehensive documentation of such intellectual knowledge at local levels. However, without systematically capturing the data, those regional records are fragmented and can hardly be used. In this study, we develop a framework to assemble the cross-cultural ethnobotanical knowledge at a genus level, including capturing the species’ diversity and their cultural importance, integrating their traditional uses, and revealing the intercultural relationship of ethnobotanical data quantitatively. Using such a cross-cultural ethnobotanical assembly, the medicinal and culinary values of the genus Lycium are evaluated. Simultaneously, the analysis highlights the problems and options for a systematic cross-cultural ethnobotanical knowledge assembly. The framework used here could generate baseline data relevant for conservation and sustainable use of plant diversity as well as for bioprospecting within targeting taxa.
+
+title : Plant Resources Utilization among Different Ethnic Groups of Ladakh in Trans-Himalayan Region
+source : BIOLOGY-BASEL
+publish year : 2021
+Authors : [AuthorName(display_name='Haq, Shiekh Marifatul', wos_standard='Haq, SM', researcher_id='HHM-1960-2022'), AuthorName(display_name='Yaqoob, Umer', wos_standard='Yaqoob, U', researcher_id='GIA-0216-2022'), AuthorName(display_name='Calixto, Eduardo Soares', wos_standard='Calixto, ES', researcher_id='A-2728-2019'), AuthorName(display_name='Rahman, Inayat Ur', wos_standard='Rahman, IU', researcher_id='D-5420-2015'), AuthorName(display_name='Hashem, Abeer', wos_standard='Hashem, A', researcher_id='CUA-6977-2022'), AuthorName(display_name='Abd Allah, Elsayed Fathi', wos_standard='Abd Allah, EF', researcher_id='N-6846-2017'), AuthorName(display_name='Alakeel, Maha Abdullah', wos_standard='Alakeel, MA', researcher_id='EJD-4012-2022'), AuthorName(display_name='Alqarawi, Abdulaziz A.', wos_standard='Alqarawi, AA', researcher_id='GRT-3636-2022'), AuthorName(display_name='Abdalla, Mohnad', wos_standard='Abdalla, M', researcher_id='AAH-6532-2020'), AuthorName(display_name='Hassan, Musheerul', wos_standard='Hassan, M', researcher_id='GLU-4514-2022'), AuthorName(display_name='Bussmann, Rainer W.', wos_standard='Bussmann, RW', researcher_id='A-6105-2010'), AuthorName(display_name='Abbasi, Arshad Mehmood', wos_standard='Abbasi, AM', researcher_id='J-9314-2015'), AuthorName(display_name='Rahman, Sami Ur', wos_standard='Rahman, SU', researcher_id='IRN-7525-2023'), AuthorName(display_name='Ijaz, Farhana', wos_standard='Ijaz, F', researcher_id='Y-9723-2019')]
+Keywords : author_keywords=['biodiversity', 'ethnobotanical uses', 'plant resource', 'Ladakh', 'chord diagram', 'trans-Himalayas']
+doi : 10.3390/biology10090827
+Abstract : The nomadic pastoral indigenous communities of the Ladakhi people share roots with Tibetan culture in terms of food, clothing, religion, festivals, and habits, and rely widely on plant resources for survival and livelihood. This survey was conducted during 2019–2021 to document the indigenous knowledge about plant resources of the Balti, Beda, and Brokpa communities of the Ladakh region, trans-Himalayas. Open- and close-ended semi-structured interviews (N = 184) and group discussions (N = 17) were used to collect the data. Quantitative data was further analyzed using various statistical tools. A total of 105 plant species belonging to 82 genera and 39 families were used as medicine, fuel wood, fragrance, oil, food, flavor, fodder, decoration, and dye. Among these, medicinal use was most prevalent, with 70% of use reports, followed by fodder and fuel wood. Leaves (27%) were the most preferred plant part used, followed by roots and flowers. The principal component analysis revealed five clusters of ethnobotanical usage, i.e., food, medicine, fuel wood, fodder, and fragrance, oil, dye, and flavor. The maximum number of plant species used was reported by the Brokpa, while the Beda reported the minimum number of plant species uses. Delphinium brunonianum, Waldheimia tomentosa, and Juniperus indica played a significant role in the cultural and religious ritual aspects, whereas Allium przewalskianum, Waldheimia tomentosa, Juniperus indica, and Hippophae rhamnoides were commonly used as a livelihood source among Ladakhi communities. The local people collected most plants (65%) for self-consumption, while the rest (35%) were sold in markets as a source of income. The sustainable utilization and management of plant resources by local people is a strategy to boost livelihoods and food security and alleviate poverty.
+
+title : Ethnobotanical Study of Traditional Building Materials from the Island of Bali, Indonesia
+source : ECONOMIC BOTANY
+publish year : 2017
+Authors : [AuthorName(display_name='Sujarwo, Wawan', wos_standard='Sujarwo, W', researcher_id='E-8605-2015'), AuthorName(display_name='Keim, Ary Prihardhyanto', wos_standard='Keim, AP', researcher_id='CYB-2449-2022')]
+Keywords : author_keywords=['Austronesia', 'building materials', 'plant diversity', 'local knowledge', 'wood resources']
+doi : 10.1007/s12231-017-9385-z
+Abstract : Abstract not found.
+
+title : Does total tannin content explain the use value of spontaneous medicinal plants from the Brazilian semi-arid region?
+source : REVISTA BRASILEIRA DE FARMACOGNOSIA-BRAZILIAN JOURNAL OF PHARMACOGNOSY
+publish year : 2014
+Authors : [AuthorName(display_name='Monteiro, Julio M.', wos_standard='Monteiro, JM', researcher_id='DGI-4554-2022'), AuthorName(display_name='de Souza, Joao S. N.', wos_standard='de Souza, JSN', researcher_id='ESO-3744-2022'), AuthorName(display_name='Lins Neto, Ernani M. F.', wos_standard='Neto, EMFL', researcher_id='GWD-7291-2022'), AuthorName(display_name='Scopel, Keli', wos_standard='Scopel, K', researcher_id='DRE-6943-2022'), AuthorName(display_name='Trindade, Elzineide F.', wos_standard='Trindade, EF', researcher_id='DZE-9408-2022')]
+Keywords : author_keywords=['Ethnobotany', 'Tannic compounds', 'Caatinga', 'Biodiversity conservation']
+doi : 10.1016/j.bjp.2014.02.001
+Abstract : Abstract not found.
+
+title : Use, exploitation and prospects for conservation: people and plant biodiversity of Naltar Valley, northwestern Karakorums, Pakistan
+source : BIODIVERSITY AND CONSERVATION
+publish year : 2002
+Authors : [AuthorName(display_name='Sheikh, K', wos_standard='Sheikh, K', researcher_id='DRO-3885-2022'), AuthorName(display_name='Ahmad, T', wos_standard='Ahmad, T', researcher_id='HWR-5100-2023'), AuthorName(display_name='Khan, MA', wos_standard='Khan, MA', researcher_id='HTT-4685-2023')]
+Keywords : author_keywords=['biodiversity conservation', 'ethnobotany', 'flora', 'indigenous communities', 'mountains', 'Naltar Valley', 'northern Pakistan', 'Karakorums']
+doi : 10.1023/A:1015584202121
+Abstract : Abstract not found.
+
+title : Taneyan Lanjang Shared Home Gardens and Sustainable Rural Livelihoods of Ethnic Madurese in Madura Island, Indonesia
+source : SUSTAINABILITY
+publish year : 2022
+Authors : [AuthorName(display_name='Setiani, Setiani', wos_standard='Setiani, S', researcher_id='GMB-8422-2022'), AuthorName(display_name='Setiawan, Eko', wos_standard='Setiawan, E', researcher_id='GOP-1314-2022'), AuthorName(display_name='Huang, Wen-Chi', wos_standard='Huang, WC', researcher_id='B-4136-2014')]
+Keywords : author_keywords=['agrobiodiversity', 'ecosystem service', 'food system', 'home garden', 'conservation', 'rural livelihoods', 'sustainable management', 'traditional knowledge']
+doi : 10.3390/su14105960
+Abstract : The ethnic Madurese are among the top five most populous ethnic groups in Indonesia. Their traditional settlements have a special design called Taneyan Lanjang (TL). TL settlements consist of several elements, which are arranged in a specific pattern that is affected by local and Islamic culture. The gardening space of a TL settlement—here referred to as the shared home garden (SHG)—is shared by several family households. The ethnic Madurese apply traditional knowledge to manage their home gardens. This study investigated the features of TLs and SHGs, mostly in relation to cultural matters, the utilization of plants, management based on local knowledge, and their contribution to rural livelihoods. The study area consisted of the four regencies of Madura Island, Indonesia. A total of 200 TL settlements were observed, and 4 key informants and 400 respondents who were engaged in TL were questioned through in-depth interviews. The plant species cultivated in the SHGs were recorded and identified according to the database of The Plant List. In total, 108 plant species within 40 plant families were recorded. Fabaceae had the highest number of species, with 10 species (9.26%), most of which are used as food (65.7%). We identified and characterized the most important services and functions provided by SHGs to rural livelihoods that directly benefit rural communities.
+
+title : Traditional Medicine Analysis and Sustainable Use of Korean Pond Wetland Plants in the Agricultural Landscape
+source : SUSTAINABILITY
+publish year : 2020
+Authors : [AuthorName(display_name='Son, Jinkwan', wos_standard='Son, J', researcher_id='GVU-8948-2022'), AuthorName(display_name='Kim, Changhyun', wos_standard='Kim, C', researcher_id='CYE-8310-2022'), AuthorName(display_name='Park, Minjung', wos_standard='Park, M', researcher_id='HWY-6103-2023'), AuthorName(display_name='Choi, Dukkyu', wos_standard='Choi, D', researcher_id='EPT-0474-2022'), AuthorName(display_name='Yun, Sung-Wook', wos_standard='Yun, SW', researcher_id='AAE-6714-2020')]
+Keywords : author_keywords=['traditional knowledge (TK)', 'plant diversity', 'conservation', 'oriental medicine', 'agricultural landscape']
+doi : 10.3390/su12155963
+Abstract : This study surveyed the most commonly observed plants at 40 pond wetlands in rural villages in Korea and assessed their use patterns in traditional medicine (TM) with reference to the contents of the Korea Traditional Knowledge Portal (KTKP). In this survey, 457 taxa in 108 families were identified. For these, there are use patterns in TM for 314 taxa; overall, 68.8% of the surveyed plants have uses in TM. The 314 taxa that have applications in TM involve 596 types of disease treatment and 771 types of efficacy. On average, for each taxon, there are 4.0 types of efficacy and 6.6 types of disease treatment. TM from 210 taxa have been described as applied to organs in 10 regions of the body: liver 123, lung 82, spleen 57, stomach 57, heart 45, large intestine 43, kidney 40, bladder 23, small intestine 16, and gall bladder 8. The results of this study will help support the conservation of pond wetlands that provide national biodiversity and various ecosystem services, by increasing the recognized value of pond wetlands even when they are no longer used in farming. Thus, this study can support educational materials for eco-experience and can be applied in the conservation of Korean pond wetlands.
+
