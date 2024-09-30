@@ -6,14 +6,14 @@ subgraph PréparationDonnées
 end
 
 subgraph AgentAnalyste
-B{Modèle de langage} <--> H{Interpréteur de données}
+B{Modèle de langage} <--> H{Interprète de données}
 
 end
 
 subgraph Métaprompt
-    E[Méta-prompt avec exemples] --> F
-    F[Génération d'une prompt adaptée] --> G
-    G[Extraction de la prompt générée]
+    E[Métaprompt avec exemples] --> F
+    F[Génération d'une instruction adaptée] --> G
+    G[Extraction de l'instruction générée]
 end
 
 Métaprompt --> AgentAnalyste
